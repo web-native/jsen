@@ -8,6 +8,7 @@
 
 <!-- /BADGES -->
 
+### This project has moved to [WebQit/subscript](https://github.com/webqit/subscript).
 
 JS.E(N) (JavaScript Expression Notation) - parse JavaScript expressions; execute in custom scopes.
 
